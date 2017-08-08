@@ -3,4 +3,5 @@ INDEX.PHP : This page displays the basic info of user create task, with all the 
 VIEW.PHP : This page carries all the information that is being filled in the index.php page to a simple table formatted page giving the user a delete and edit option
 EDIT.PHP : This option and feather gives the user the oppurtunity to edit previously inputted data easily
 DELETE.PHP :This option and feather gives the user the oppurtunity to delete previously inputted data easily and entirely from the database.
+SODE.DB : This is the sqlite database used for this test. 
 THE SYSTEM IS GENERALLY FLEXIBLE AND EASY TO USE.
